@@ -1,0 +1,3 @@
+# Git and Github
+# Git - It is a version control system.
+# Github - remote area which stores programs. 
